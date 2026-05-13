@@ -461,5 +461,5 @@ It is an excellent portfolio project for:
 
 #  Author
 
-**Prince Tiwari**  
+**Priyanshu Tiwari**  
 Data Analytics & Power BI Enthusiast
