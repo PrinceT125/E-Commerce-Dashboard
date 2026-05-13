@@ -27,7 +27,7 @@ This project demonstrates a complete **Data Analytics Workflow** from raw data p
 
 # 🖼 Dashboard Preview
 
-![Dashboard Preview]([https://github.com/PrinceT125/E-Commerce-Dashboard/dashboard-image.png](https://github.com/PrinceT125/E-Commerce-Dashboard/blob/main/dashboard%20image.png))
+![Dashboard Preview]((https://github.com/PrinceT125/E-Commerce-Dashboard/blob/main/dashboard%20image.png))
 
 ---
 
